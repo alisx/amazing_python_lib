@@ -8,3 +8,5 @@
 - [Newspaper3k](./newspaper3k/main.py)
 - [face_recognition](./face_recognition/main.py)
 - [faker](./faker/main.py)
+- [Envoy](./envoy/main.py)
+- [Jinjia2](./jinjia2/main.py)
