@@ -13,3 +13,4 @@
 - [Watchdog](./watchdog/main.py)
 - [pdoc](./pdoc/main.py)
 - [Arrow —— 时间的朋友 Python 库](./arrow/main.py)
+- [Pygame —— 一个好玩的游戏 Python 库](./pygame/)
