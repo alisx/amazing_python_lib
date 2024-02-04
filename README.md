@@ -14,3 +14,4 @@
 - [pdoc](./pdoc/main.py)
 - [Arrow —— 时间的朋友 Python 库](./arrow/main.py)
 - [Pygame —— 一个好玩的游戏 Python 库](./pygame/)
+- [Art —— 一个艺术感爆棚的 Python 库](./art/main.py)
