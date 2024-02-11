@@ -16,3 +16,4 @@
 - [Pygame —— 一个好玩的游戏 Python 库](./pygame/)
 - [Art —— 一个艺术感爆棚的 Python 库](./art/main.py)
 - [过年了，Python 实现一场烟花秀](./fireworks/main.py)
+- [Cocos2d —— 一个能实现梦想的 Python 库](./cocos2d/main.py)
