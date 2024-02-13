@@ -19,3 +19,4 @@
 - [Cocos2d —— 一个能实现梦想的 Python 库](./cocos2d/main.py)
 - [Pendulum —— 一个专业的 Python 库](./pendulum/main.py)
 - [Tkinter —— 一个简洁的 Python 库](./tkinter/)
+- [Turtle —— 一个懂得浪漫的 Python 库](./turtle/main.py)
