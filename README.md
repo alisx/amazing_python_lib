@@ -21,3 +21,4 @@
 - [Tkinter —— 一个简洁的 Python 库](./tkinter/)
 - [Turtle —— 一个懂得浪漫的 Python 库](./turtle/main.py)
 - [BeautifulSoup —— 一品美味的 Pyhon 汤(库)](./beautifulsoup/main.py)
+- [Rich —— 一个让程序更高级的 Python 库](./rich/main.py)
