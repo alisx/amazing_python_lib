@@ -23,4 +23,5 @@
 - [BeautifulSoup —— 一品美味的 Pyhon 汤(库)](./beautifulsoup/main.py)
 - [Rich —— 一个让程序更高级的 Python 库](./rich/main.py)
 - [Howdoi —— 一个超级方便的 Python 库](./howdoi/main.sh)
+- [Tqtm —— 一个拒绝无聊的 Python 库](./tqdm/main.py)
   
