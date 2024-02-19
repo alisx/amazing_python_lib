@@ -25,4 +25,5 @@
 - [Howdoi —— 一个超级方便的 Python 库](./howdoi/main.sh)
 - [Tqdm —— 一个拒绝无聊的 Python 库](./tqdm/main.py)
 - [Colormam —— 一个让程序更可爱的 Python 库](./colormam/main.py)
+- [Bokeh —— 一个超强的可视化 Python 库](./bokeh/main.py)
   
