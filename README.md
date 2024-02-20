@@ -26,4 +26,4 @@
 - [Tqdm —— 一个拒绝无聊的 Python 库](./tqdm/main.py)
 - [Colormam —— 一个让程序更可爱的 Python 库](./colormam/main.py)
 - [Bokeh —— 一个超强的可视化 Python 库](./bokeh/main.py)
-  
+- [Black —— 一个无情的 Python 库](./black/)
