@@ -28,3 +28,4 @@
 - [Bokeh —— 一个超强的可视化 Python 库](./bokeh/main.py)
 - [Black —— 一个无情的 Python 库](./black/)
 - [Dash —— 一个很有包容性的 Python 库](./dash/)
+- [Ftfy —— 一个洞见混乱，恢复秩序的 Python 库](./ftfy/main.py)
