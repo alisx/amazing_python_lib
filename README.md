@@ -30,3 +30,4 @@
 - [Dash —— 一个很有包容性的 Python 库](./dash/)
 - [Ftfy —— 一个洞见混乱，恢复秩序的 Python 库](./ftfy/main.py)
 - [Tox —— 一个在多环境间翩翩起舞的 Python 库](./tox/tox.ini)
+- [Scrapy —— 一个无敌于网络的 Python 库](./scrapy/)
