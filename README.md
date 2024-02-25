@@ -31,3 +31,4 @@
 - [Ftfy —— 一个洞见混乱，恢复秩序的 Python 库](./ftfy/main.py)
 - [Tox —— 一个在多环境间翩翩起舞的 Python 库](./tox/tox.ini)
 - [Scrapy —— 一个无敌于网络的 Python 库](./scrapy/)
+- [Numpy —— 一个性能超强的数据处理 Python 库](./numpy/main.py)
