@@ -33,3 +33,4 @@
 - [Scrapy —— 一个无敌于网络的 Python 库](./scrapy/)
 - [Numpy —— 一个性能超强的数据处理 Python 库](./numpy/main.py)
 - [ZVT —— 一个将股票玩于股掌的 Python 库](./zvt/main.py)
+- [Addressrec —— 一个让你不加班的 Python 库](./addressrec/)
