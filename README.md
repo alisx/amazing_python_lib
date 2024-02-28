@@ -40,3 +40,4 @@
 - [Numpy —— 一个性能超强的数据处理 Python 库](./codes/numpy/main.py)
 - [ZVT —— 一个将股票玩于股掌的 Python 库](./codes/zvt/main.py)
 - [Addressrec —— 一个让你不加班的 Python 库](./codes/addressrec/)
+- [Cysimdjson —— 一个号称地球上最快的 Python 库](./codes/cysimdjson/main.py)
