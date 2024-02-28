@@ -16,4 +16,4 @@ jobs:
           dst_token:  ${{ secrets.GITEE_TOKEN }}
           static_list: "amazing_python_lib"
           force_update: true
-	  debug: true
+          debug: true
