@@ -42,3 +42,4 @@
 - [Addressrec —— 一个让你不加班的 Python 库](./codes/addressrec/)
 - [Cysimdjson —— 一个号称地球上最快的 Python 库](./codes/cysimdjson/main.py)
 - [Lightning —— 一个让训练快如闪电的 Python 库](./codes/lightning/main.py)
+- [Pytest —— 一位高质量项目的守护神 Python库](./codes/pytest/main.py)
