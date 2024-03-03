@@ -45,3 +45,4 @@
 - [Pytest —— 一位高质量项目的守护神 Python库](./codes/pytest/main.py)
 - [IDNA —— 一个不常用但必须了解的 Python 库](./codes/idna/main.py)
 - [Agate —— 一个强大而沉稳的 Python 库](./codes/agate/main.py)
+- [Beartype —— 一头安全的 Python 熊（库）](./codes/beartype/main.py)
