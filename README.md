@@ -46,3 +46,4 @@
 - [IDNA —— 一个不常用但必须了解的 Python 库](./codes/idna/main.py)
 - [Agate —— 一个强大而沉稳的 Python 库](./codes/agate/main.py)
 - [Beartype —— 一头安全的 Python 熊（库）](./codes/beartype/main.py)
+- [Debugpy —— 一个铁面无私明察秋毫的 Python 库](./codes/debugpy/)
