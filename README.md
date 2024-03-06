@@ -47,3 +47,5 @@
 - [Agate —— 一个强大而沉稳的 Python 库](./codes/agate/main.py)
 - [Beartype —— 一头安全的 Python 熊（库）](./codes/beartype/main.py)
 - [Debugpy —— 一个铁面无私明察秋毫的 Python 库](./codes/debugpy/)
+- [Munch —— 优雅地点开 Python 的衣扣……](./codes/munch/main.py)
+- [Asyncssh —— 轻轻地叩开光明之门……](./codes/asyncssh/main.py)
