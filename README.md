@@ -49,3 +49,6 @@
 - [Debugpy —— 一个铁面无私明察秋毫的 Python 库](./codes/debugpy/)
 - [Munch —— 优雅地点开 Python 的衣扣……](./codes/munch/main.py)
 - [Asyncssh —— 轻轻地叩开光明之门……](./codes/asyncssh/main.py)
+- [Jsondiff —— 明察秋毫，洞破幽微](./codes/jsondiff/main.py)
+- [Moto —— 一个专业而耐心的对抗教练](./codes/moto/main.py)
+- [LMDB —— 一个简约而不简单的 Python 库](./codes/lmdb/main.py)
