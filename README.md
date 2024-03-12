@@ -52,3 +52,4 @@
 - [Jsondiff —— 明察秋毫，洞破幽微](./codes/jsondiff/main.py)
 - [Moto —— 一个专业而耐心的对抗教练](./codes/moto/main.py)
 - [LMDB —— 一个简约而不简单的 Python 库](./codes/lmdb/main.py)
+- [Petl —— 一个雷厉风行的 Python 库](./codes/petl/main.py)
